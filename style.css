@@ -8,7 +8,7 @@
 
 header{
   display: flex;
-  background-color: #ffffff;
+  background-color: rgba(205, 11, 11, 0.1);
   height: 80px;
   justify-content: space-between;
   align-items: center;
@@ -48,11 +48,11 @@ header{
 }
 
 .nav_bar a:hover{
-  border-bottom: 4px solid #f54e77;
+  border-bottom: 4px solid rgb(205, 11, 11);
 }
 
 .nav_bar a sup{
-  color: #ff3f6c;
+  color: rgb(205, 11, 11);
   font-size: 10px;
 }
 
